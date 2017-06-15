@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<?xml-stylesheet stylesheet type= text/xsl "text/xsl" href="galderakErakutsi.xsl"?>
+<assessmentItems>
+	<assessmentItem complexity="3" subject="mikologia">
+		<itemBody> 
+			<p>Amanita muskaria zer da?</p>
+		</itemBody>
+		<correctResponse>
+			<value>Perretxikoa</value>
+		</correctResponse>
+	</assessmentItem>
+	<assessmentItem complexity="5" subject="mikologia">
+		<itemBody>
+			<p>Amanita hilkorrena zein da?</p>
+		</itemBody>
+		<correctResponse>
+			<value>Phalloides</value>
+		</correctResponse>
+	</assessmentItem>
+	<assessmentItem complexity="4" subject="mikologia">
+		<itemBody>
+			<p>Amanita cesarea jangarria da. Bai ala Ez?</p>
+		</itemBody>
+		<correctResponse>
+			<value>Bai</value>
+		</correctResponse>
+	</assessmentItem>
+	<assessmentItem complexity="3" subject="mikologia">
+		<itemBody>
+			<p>probatzen xml</p>
+		</itemBody>
+		<correctResponse>
+			<value>ondo duaaa</value>
+		</correctResponse>
+		</assessmentItem>
+<assessmentItem complexity="1" subject="eztakitx"><itemBody><p>raweaweae</p></itemBody><correctResponse><value>aeawewa</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="jygj"><itemBody><p>gjygj</p></itemBody><correctResponse><value>gjygj</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="vgrd"><itemBody><p/></itemBody><correctResponse><value/></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="vgrd"><itemBody><p/></itemBody><correctResponse><value/></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="ouioi"><itemBody><p/></itemBody><correctResponse><value/></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="o9o9"><itemBody><p>dad</p></itemBody><correctResponse><value>adaw</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="o9o9"><itemBody><p>dad</p></itemBody><correctResponse><value>adaw</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="o9o9"><itemBody><p>dad</p></itemBody><correctResponse><value>adaw</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="gftr"><itemBody><p>fgf</p></itemBody><correctResponse><value>fgttg</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="sfsef"><itemBody><p>feasfe</p></itemBody><correctResponse><value>sfsef</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject=" cx"><itemBody><p> c</p></itemBody><correctResponse><value> rgdr</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="srdgrg"><itemBody><p>rgsrdg</p></itemBody><correctResponse><value>sgdr</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="o8yo8y"><itemBody><p>o9io9u</p></itemBody><correctResponse><value>oy8y</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="yo88yoyo"><itemBody><p>yo88yo8y</p></itemBody><correctResponse><value>yo8yo</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="yo8yo8y"><itemBody><p>o8yo8yo8y</p></itemBody><correctResponse><value>yo88yo8</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="yo88yo"><itemBody><p>o8yo8yo</p></itemBody><correctResponse><value>y8oyo88y</value></correctResponse></assessmentItem><assessmentItem complexity="5" subject="Animaliak"><itemBody><p>Por que eres mas feo que un mono?</p></itemBody><correctResponse><value>Por que me estas mirando el puto kulo gilipollas</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="dxwa"><itemBody><p>dwad</p></itemBody><correctResponse><value>adaw</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="dw"><itemBody><p>adw</p></itemBody><correctResponse><value>adw</value></correctResponse></assessmentItem><assessmentItem complexity="hutsa" subject="dxwa"><itemBody><p>dwad</p></itemBody><correctResponse><value>adaw</value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="mhb"><itemBody><p>bmh</p></itemBody><correctResponse><value>bmh</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="vhn"><itemBody><p>n</p></itemBody><correctResponse><value>hv</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="dawd"><itemBody><p>dawdw</p></itemBody><correctResponse><value>adwa</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="eztakitx"><itemBody><p>zer?</p></itemBody><correctResponse><value>ez</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="sq"><itemBody><p>daw</p></itemBody><correctResponse><value>dwa</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="ada"><itemBody><p>dawd</p></itemBody><correctResponse><value>adwa</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="probatzen"><itemBody><p>bat</p></itemBody><correctResponse><value>bi </value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="hau"><itemBody><p>lelengo</p></itemBody><correctResponse><value>galdera</value></correctResponse></assessmentItem><assessmentItem questionId="5" complexity="3" subject="oain bai"><itemBody><p>ezbai</p></itemBody><correctResponse><value>bueno...</value></correctResponse></assessmentItem><assessmentItem questionId="2" complexity="3" subject="sq"><itemBody><p>eeeo</p></itemBody><correctResponse><value>dwa</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="hau lenengo ikasle galdera da"><itemBody><p>zergaitik ez? </p></itemBody><correctResponse><value>olentzero ezta pasatzen afrikatik</value></correctResponse></assessmentItem><assessmentItem questionId="6" complexity="3" subject="hau lenengo ikasle galdera da"><itemBody><p>zergaitik ez? </p></itemBody><correctResponse><value>olentzero ezta pasatzen afrikatik</value></correctResponse></assessmentItem><assessmentItem complexity="5" subject="Ikastola"><itemBody><p>Zeba dana azken momenturako laga?</p></itemBody><correctResponse><value>alperra jaxo...</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="BAII"><itemBody><p>ZEAA</p></itemBody><correctResponse><value>EZZZ</value></correctResponse></assessmentItem><assessmentItem complexity="4" subject="FESF"><itemBody><p>FSEF</p></itemBody><correctResponse><value>FES</value></correctResponse></assessmentItem><assessmentItem questionId="9" complexity="4" subject="FESF"><itemBody><p>HOLA EREZ JOEEE</p></itemBody><correctResponse><value>FES</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="dwa"><itemBody><p>daw</p></itemBody><correctResponse><value>daw</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="bai eo?"><itemBody><p>ezz</p></itemBody><correctResponse><value>zeba </value></correctResponse></assessmentItem><assessmentItem questionId="7" complexity="5" subject="Ikastola"><itemBody><p>Zeba dana azken momenturako laga?</p></itemBody><correctResponse><value>alperra jaxo...editatuta!berriz</value></correctResponse></assessmentItem></assessmentItems>
