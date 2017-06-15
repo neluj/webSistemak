@@ -1,7 +1,0 @@
-1.-SOAPpass eztabil ondo
-
-2.-Argazkia
-
-3.-Erregistratzeko panela eguneratu orrialde guztietan(edo include)
-
-4.-sign in ezbada zuzena
